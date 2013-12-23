@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:title="About Us"
+        android:id="@+id/aboutUs"
+        android:numericShortcut="1"
+        android:alphabeticShortcut="a"/> 
+        
+    <item 
+        android:title="View Login Entries"
+        android:id="@+id/loginentry"
+        android:numericShortcut="3"
+      />  
+      
+    <item 
+        android:title="View Callbooking Entries"
+        android:id="@+id/bookingentry"
+        android:numericShortcut="4"
+      />  
+      
+    <item 
+        android:title="Cancel the Booked Call"
+        android:id="@+id/CancelCall"
+        android:numericShortcut="5"
+      />  
+      
+    <item 
+        android:title="List of Booked Call with PNRs"
+        android:id="@+id/PnrList"
+        android:numericShortcut="5"
+      />  
+    
+    <item 
+        android:title="Exit"
+        android:id="@+id/exit"
+        android:numericShortcut="6"
+      />  
+    
+    
+
+</menu>

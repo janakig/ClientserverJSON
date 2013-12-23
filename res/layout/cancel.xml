@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/abstract001">
+   <!--  android:background="#34282C" -->
+   
+    <LinearLayout
+      	android:layout_width="fill_parent"
+   		android:layout_height="fill_parent"
+    	android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PNR" />
+
+        <AutoCompleteTextView
+            android:id="@+id/actvPNR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" >
+        </AutoCompleteTextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call Termination Reason" />
+
+        <EditText
+            android:id="@+id/etCallTerminateReason"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call Term Type" />
+
+        <Spinner
+            android:id="@+id/spCallTermType"
+            android:layout_width="match_parent"
+            android:layout_height="55dp" />
+
+        <Button
+            android:id="@+id/bCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Click To Cancel the Booked Call" />
+  <!--   <TextView
+        android:id="@+id/textViewbuild"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sent Information"
+        android:layout_marginBottom="10dip"
+        android:visibility="invisible"
+        />
+
+    <EditText
+        android:id="@+id/editTextbuild"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:layout_marginBottom="30dip"
+        android:visibility="invisible"
+         >
+    </EditText>
+
+    <TextView
+        android:id="@+id/textViewrecvd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Server Information"
+        android:layout_marginBottom="10dip"
+        android:visibility="invisible"
+        
+	/>
+    <EditText
+        android:id="@+id/editTextrecvd"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine" 
+        android:visibility="invisible"
+        />  -->
+
+</LinearLayout> 
+</ScrollView>

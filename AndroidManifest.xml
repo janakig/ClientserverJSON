@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.agni.callbooking.pune.rordroid"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="7" />
+	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="Celcabs Call Booking Pune" >
+        <activity
+            android:label="CELCABS PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.Welcome" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.ClientServerJSONActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+          <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.Form" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+           
+        <activity
+            android:label="About Us"
+            android:name="com.agni.callbooking.pune.rordroid.About"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.FormEntry" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.FormView" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.LoginEntry" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.LoginView" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.CancelBookedCall" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+          <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.BookedCancel" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+           <activity
+            android:label="CELCABS BOOKING PUNE"
+            android:name="com.agni.callbooking.pune.rordroid.PNRList" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

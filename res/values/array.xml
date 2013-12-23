@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="list">
+ <item name = "Bangalore"> Bangalore </item>
+ <item name = "Pune">Pune</item>
+    </string-array>
+    
+    <string-array name="lValues">
+        	<item name = "Bangalore"> Bangalore </item>
+ 			<item name = "Pune">Pune</item>
+    </string-array>
+        
+     <string-array name="listItems1">
+      <item name ="Bangalore"> Bangalore </item>
+      <item name = "Pune">Pune</item>
+      <item >1</item>
+    </string-array>
+</resources>

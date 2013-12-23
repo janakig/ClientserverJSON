@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+    <EditTextPreference
+        android:title="Customer Name"
+        android:key="name"
+        android:summary="Enter Your Name">    
+    </EditTextPreference>
+      
+    <ListPreference
+        android:title="location"
+        android:key="list"
+        android:summary="Choose your current Location"
+        android:entries="@array/list"
+        android:entryValues="@array/lValues">     
+    </ListPreference>
+
+</PreferenceScreen>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/abstract001">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the row id" />
+
+    <EditText
+        android:id="@+id/etRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="6" >
+    <Button
+        android:id="@+id/bView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View" 
+        android:layout_weight="3"/>
+
+    <Button
+        android:id="@+id/bDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Entry"
+        android:layout_weight="3" />
+</LinearLayout>
+</LinearLayout>

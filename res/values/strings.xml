@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="build">JSON Build:</string>
+    <string name="recvd">JSON Received:</string>
+    <string name="app_name">Client Server Communication via JSON</string>
+    
+     <string-array name="listplacesBangalore">
+ <item> coles rd</item>
+ <item>Angsana Resort Yelahanka</item>
+ <item>Eagleton golf resort, bidadi</item>
+ <item>BIAL Cargo Pay Park</item>
+ <item>jayanagar 9 block</item>
+ <item>jayanagar east block</item>
+ <item>jp nagar</item>
+ <item>jp nagar i phase</item>
+ <item>vimanapura</item>
+ <item>chamarajpet bazar</item>
+ <item>vittalnagar</item>
+ <item>gavipurm extn</item>
+ <item>gavipurm guttaballi</item>
+ <item>narasimbaraja colony</item>
+ <item>hmt watch factory</item>
+ <item>gangenahalli extn</item>
+ <item>kaval byrasandra</item>
+ <!--  <item> pandt colony</item>-->
+ <item>marutisevanagar</item>
+ <item>st johns medical college</item>
+ <item>krisnarajapuram</item>
+ <item>ramesh nagar</item>
+ <item>cv rammannagar</item>
+ <item>binnamangala ii</item>
+ <item>byappanahalli</item>
+ <item>commercial complex</item>
+ <item>hal ii stage</item>
+ <item>indira nagar</item>
+ <item>nayandahalli</item>
+ <item>r p c layout north</item>
+ <item>vijayanagar</item>
+ <item>vijayanagar east</item>
+ <item>jayanagar south</item>
+ <item>banashankari iii stage</item>
+ <item>vijayanagar i stage</item>
+ <item>vijayanagar ii stage</item>
+ <item>west of chord road i stage</item>
+ <item>west of chord road ii stage</item>
+ <item>west of chord road iii stage</item>
+ <item>west of chord road iv stage</item>
+ <item>williams towm</item>
+ <item>palace grounds</item>
+ <item>electronics city</item>
+ <item>city railwaystation</item>
+ <item>jigni</item>
+ <item>kasturinagar</item>
+ <item>airport road</item>
+ <item>cant railway station</item>
+ <item>majestic</item>
+ <item>hbr layout ii block</item>
+ <item>high grounds</item>
+ <item>kamakshipalya</item>
+ <item>hoskotte village</item>
+ <item>ganganagar</item>
+ <item>vinayaka nagar</item>
+ <item>basaveshwar nagar</item>
+ <item>bhoopasandra </item>
+ <item>mission road</item>
+ <item>richmond circle</item>
+ <item>marathahalli</item>
+ <item>unlisted</item>
+ <item>hbr layout ii phase</item>
+ <item>hbr layout iii block</item>
+ <item>hbr layout iv block</item>
+ <item>hbr layout v block</item>
+ <item>hrbr layout</item>
+ <item>hrbr layout i block</item>
+ <item>hrbr layout ii block</item>
+ <item>hrbr layout iii block</item>
+ <item>hsr layout</item>
+<item>hsr layout sector i</item>
+ <item>hsr layout sector ii</item>
+ <item>hsr layout sector iii</item>
+ <item>hsr layout sector iv</item>
+ <item>hsr layout sector v</item>
+ <item>hsr layout sector vi</item>
+ <item>hsr layout sector vii</item>
+ <item>indira nagar i stage</item>
+ <item>indira nagar ii stage</item>
+ <item>jayanagar 1 block</item>
+ <item>jayanagar 2 block</item>
+ <item>jayanagar 3 block</item>
+ <item>jayanagar 4 block</item>
+ <item>jayanagar 4t block</item>
+ <item>jayanagar 5 block</item>
+ <item>jayanagar 6 block</item>
+ <item>jayanagar 7 block</item>
+ <item>jayanagar 8 block</item>
+ <item>byatarayanapura</item>
+ <item>vidyaranyapura</item>
+ <item>uttarahalli</item>
+ <item>kumarapark east</item>
+ <item>bel colony</item>
+ <item>btm layout</item>
+ <item>kg nagar</item>
+ <item>koramangala</item>
+ <item>koramangala v block</item>
+ <item>koramangala i block</item>
+<item>kumara park west</item>
+ <item>palace guttahalli</item>
+ <item>seshadri puram</item>
+ <item>gayatri nagar</item>
+ <item>okalipuram</item>
+ <item>prakash nagar</item>
+ <item>ramachandra puram</item>
+ <item>srirampuram</item>
+ <item>bangalore g p o</item>
+ <item>brigade road</item>
+ <item>cubbon road</item>
+ <item>high court</item>
+ <item>madhavanagar</item>
+ <item>mg road</item>
+ <item>mueseum road</item>
+ <item>deepanjal nagar</item>
+ <item>jp nagar ii phase</item>
+ <item>jp nagar iii phase</item>
+ <item>jp nagar iv phase</item>
+ <item>jp nagar v phase</item>
+ <item>jp nagar vii phase</item>
+ <item>koramangala 1 block</item>
+ <item>koramangala 1a block</item>
+ <item>koramangala 2 block</item>
+ <item>koramangala 3 block</item>
+ <item>koramangala 4 block</item>
+ <item>koramangala 5 block</item>
+ <item>koramangala 6 block</item>
+<item> koramangala 7 block</item>
+ <item>koramangala 8 block</item>
+ <item>koramangala industrial area</item>
+ <item>kumaraswamy layout</item>
+ <item>kumaraswamy layout stage i</item>
+ <item>kumaraswamy layout stage ii</item>
+ <item>lalbagh west</item>
+ <item>malkand lines</item>
+ <item>mandalay lines</item>
+ <item>nagarbhavi i stage</item>
+ <item>nagarbhavi ii stage</item>
+ <item>nagasandra</item>
+ <item>new market road</item>
+ <item>peenya indl area</item>
+ <item>peenya indl area i phase</item>
+ <item>peenya indl area i stage</item>
+ <item>peenya indl area ii phase</item>
+ <item>wilson garden</item>
+ <item>peenya indl area ii stage</item>
+ <item>peenya indl area iii phase</item>
+ <item>peenya indl area iii stage</item>
+ <item>rajajinagar ii block</item>
+ <item>rajajinagar iii block</item>
+ <item>rajajinagar v block</item>
+ <item>rajarajeshwari nagar</item>
+ <item>rajarajeshwari nagar ii stage</item>
+ <item>rajarajeshwari nagar iii stage</item>
+ <item>rajarajeshwari nagar iv stage</item>
+ <item>rajarajeshwari nagar v stage</item>
+ <item>rajmahalvilas (rmv)</item>
+ <item>rajmahalvilas (rmv) i stage</item>
+ <item>rajmahalvilas (rmv) ii stage</item>
+ <item>mahalakshmipuram layout</item>
+ <item>bapuji nagar</item>
+ <item>jalahalli west</item>
+ <item>kamagondanahalli</item>
+ <item>doorvaninagar</item>
+ <item>doorvaninagar east</item>
+ <item>kr puram railwaystation</item>
+ <item>ramamurthynagar</item>
+ <item>airport h a l</item>
+ <item>williams town</item>
+ <item>goreguntapalya</item>
+<item> kanteeravanagar</item>
+<item>kempapura agrahara</item>
+ <item>magadi road</item>
+ <item>vasantanagar</item>
+ <item>balepet</item>
+ <item>belimutt road</item>
+ <item>chickpet</item>
+ <item>cottonpet</item>
+ <item>gokula</item>
+ <item>anand nagar</item>
+<item> mathikere</item>
+ <item>malleswaram west</item>
+ <item>milk colony</item>
+ <item>vishwavidyalaya</item>
+ <item>dasarahalli t</item>
+ <item>madivala</item>
+ <item>peenya</item>
+ <item>hebbal agricultural farm</item>
+ <item>nr colony</item>
+ <item>kengeri</item>
+ <item>subramanyapura</item>
+ <item>doddakallasandra</item>
+ <item>bsf campus yelahanka</item>
+ <item>yelahanka</item>
+ <item>jayanagar t block</item>
+ <item>tilak nagar</item>
+ <item>k kamraj road</item>
+ <item>sivanchetty garden</item>
+ <item>banaswadi</item>
+ <item>kalyana nagar</item>
+<item> basaveshwar nagar ii stage</item>
+<item> devarjeevanalli</item>
+ <item>venkateshpura</item>
+<item> benson town</item>
+ <item>chinnappa gardens</item>
+ <item>sanjaynagar</item>
+ <item>jayamahal extn</item>
+<item>austin town</item>
+ <item>neelasandra</item>
+ <item>ookadapalyam</item>
+ <item>viveknagar</item>
+ <item>mahadevapura</item>
+ <item>virgonagar</item>
+ <item>ashok nagar</item>
+<item> banashankari</item>
+ <item>dasarahalli</item>
+ <item>agara</item>
+ <item>aranya bhavan</item>
+ <item>avani sringeri mutt</item>
+ <item>banashankari i phase</item>
+ <item>banashankari i stage</item>
+ <item>banashankari ii phase</item>
+ <item>banashankari ii stage</item>
+ <item>banashankari iii phase</item>
+ <item>banashankari iv phase</item>
+ <item>btm layout i stage</item>
+ <item>btm layout ii stage</item>
+ <item>btm layout iv stage</item>
+ <item>chamarajpet</item>
+ <item>charminar mosquee road</item>
+ <item>cunningham road</item>
+ <item>domlur i stage</item>
+ <item>domlur ii stage</item>
+ <item>extn iistage</item>
+ <item>g p o</item>
+ <item>gandhi krishi</item>
+ <item>gangenahalli</item>
+ <item>gavipurm guttahalli</item>
+ <item>giri nagar</item>
+ <item>giri nagar i phase</item>
+ <item>giri nagar ii phase</item>
+ <item>gokula extn</item>
+ <item>hbr layout</item>
+<item>hbr layout i block</item>
+ <item>basaveshwar nagar iii stage</item>
+ <item>varthur</item>
+ <item>hessarghatta</item>
+ <item>hessarghatta lake</item>
+ <item>chikkabanavara</item>
+ <item>bapagram</item>
+<item> viswaneedam</item>
+ <item>gm palya</item>
+ <item>commercial street</item>
+ <item>hosakerehalli</item>
+ <item>byatarayanapura/mysore rd</item>
+ <item>arkere</item>
+ <item>rajbhavan road</item>
+ <item>tannery road</item>
+ <item>laxminarayanapura</item>
+ <item>lakkasandra</item>
+ <item>vidhyapeeta circle</item>
+ <item>basavanagar</item>
+ <item>jagadish nagar</item>
+ <item>billekhalli</item>
+ <item>st marks road</item>
+ <item>jakkur</item>
+ <item>rajajinagar</item>
+ <item>mekhri circle</item>
+ <item>swimming pool ext-vyalikaval</item>
+ <item>west of chord road</item>
+ <item>double road</item>
+ <item>bel lyt</item>
+ <item>infantry road</item>
+ <item>kinnakunte</item>
+ <item>racecourse road</item>
+ <item>kaggadasapura</item>
+ <item>vidhana soudha</item>
+ <item>avenue road</item>
+ <item>fort</item>
+<item>corporation</item>
+ <item>devaiah park</item>
+ <item>hmt bangalore</item>
+ <item>kalasipalyam</item>
+ <item>market</item>
+ <item>nagrtharpet</item>
+ <item>narsimharaja road</item>
+ <item>new tharagpet</item>
+ <item>sampangiramnagar</item>
+ <item>malleswaram</item>
+ <item>malleswaram circle</item>
+ <item>vyalikaval extn</item>
+ <item>basavanagudi</item>
+ <item>bull temple road</item>
+<item> shanthinagar</item>
+ <item>mavalli</item>
+ <item>pampamahakavi road</item>
+ <item>shankarapura</item>
+ <item>sudhamnagar</item>
+ <item>visweswarapuram</item>
+ <item>cox town</item>
+ <item>fraser town</item>
+ <item>jeevanahalli</item>
+ <item>pillanna gardens</item>
+ <item>munireddy palya</item>
+ <item>air force hospital</item>
+ <item>agaram</item>
+ <item>someshwarapura</item>
+ <item>ulsoor</item>
+ <item>tyagarajanagar</item>
+ <item>gandhi nagar</item>
+ <item>kempegowda road</item>
+ <item>subashnagar</item>
+ <item>rajajinagar post office</item>
+ <item>rajajinagar iv block</item>
+ <item>rajajinagar north</item>
+<item>rajajinagar bhashyam</item>
+ <item>rajajinagar i block</item>
+ <item>rajajinagar vi block</item>
+ <item>rajajinagar west</item>
+<item> byasandra</item>
+<item> adugodi</item>
+<item> madhavanpark</item>
+<item> iisc (tata institue)</item>
+ <item>jalahalli</item>
+ <item>jalahalli east</item>
+<item> koramangala vii block</item>
+<item> yeshwantpur</item>
+ <item>rt nagar</item>
+ <item>sanky tank</item>
+<item> raja market</item>
+ <item>lalbagh west gate</item>
+ <item>kr road</item>
+ <item>jayanagar</item>
+ <item>udupi garden</item>
+<item>mico lyt</item>
+ <item>hanumanth nagar</item>
+ <item>hmt lyt</item>
+ <item>subramanyanagar</item>
+ <item>doddabommasandra</item>
+<item> murugeshpalya</item>
+ <item>vignan nagar</item>
+ <item>victoria layout</item>
+ <item>hennur</item>
+ <item>chandra layout</item>
+ <item>sunkadakatte</item>
+ <item>city bus station</item>
+<item> konankunte</item>
+<item> j.p. nagar 8th block</item>
+ <item>jayabarathnagar</item>
+ <item>tumkur road</item>
+ <item>bommasandra</item>
+<item>brooke fields</item>
+ <item>btm lyt 3rd stage</item>
+<item> sindhi colony</item>
+ <item>doddabalapur</item>
+ <item>goraguntepalya</item>
+<item> sankey rd</item>
+<item> j.c. rd</item>
+<item> langford town</item>
+<item> yelahanka satellite town</item>
+ <item>residency road</item>
+ <item>white field</item>
+ <item>kadugodi</item>
+ <item>bommanahalli</item>
+ <item>hosur road</item>
+ <item>jayanagar east</item>
+ <item>padmanabhanagar</item>
+ <item>domlur</item>
+ <item>nagarbhavi</item>
+ <item>nagasandra (bangalore)</item>
+ <item>kumbalagodu</item>
+ <item>jeevanbheemanagar</item>
+ <item>lavelle road</item>
+<item> bannerghata road</item>
+ <item>kothanur</item>
+ <item>jayaprakash naryan nagar</item>
+ <item>yelachenahalli</item>
+ <item>agrahara dasarahalli</item>
+ <item>saneguruvanahalli</item>
+ <item>vijayanagar north</item>
+ <item>palace orchards</item>
+ <item>sadashivnagar</item>
+ <item>tavarekere</item>
+ <item>jayanagar vii block</item>
+ <item>richmond town</item>
+ <item>yediyur</item>
+ <item>bannerghatta</item>
+<item>lingarajapuram</item>
+<item> hoodi</item>
+ <item>jakkur village</item>
+ <item>anand rao circle</item>
+ <item>eashwara lyt</item>
+ <item>brookfields</item>
+ <item>sakhara nagar</item>
+<item> chikodi</item>
+<item> srinagar</item>
+<item> guripalya</item>
+ <item>bismillah nagar</item>
+<item> jc nagar</item>
+<item> sultanpalya</item>
+ <item>begur</item>
+ <item>singsandra</item>
+ <item>nagavarpalya</item>
+ <item>ejipura</item>
+<item> annasadrapalya</item>
+ <item>sarjapur</item>
+ <item>thippasandra</item>
+ <item>gavipuram gutahalli</item>
+ <item>city market</item>
+ <item>manjunathnagar</item>
+ <item>attibele</item>
+ <item>kamanahalli</item>
+ <item>nandini layout</item>
+<item> intercity</item>
+ <item>s g palya</item>
+<item> nagashetty halli</item>
+ <item>kundanahalli</item>
+<item> malleshpalya</item>
+ <item>wheelers road</item>
+ <item>jalahalli village</item>
+<item> jalahalli cross</item>
+ <item>j.p. nagar 6th phase</item>
+<item> m.e.s rd</item>
+<item>mariyappana palya</item>
+ <item>v.v. puram</item>
+ <item>veerabadra nagar</item>
+ <item>boopasandra</item>
+ <item>cresent road</item>
+ <item>sasthrinagar</item>
+ <item>dodda banaswadi</item>
+ <item>cook town</item>
+ <item>nagavara</item>
+ <item>kundana halli</item>
+ <item>belendur gate</item>
+ <item>richards town</item>
+ <item>akkipet</item>
+ <item>kodigehalli</item>
+ <item>chennapatna</item>
+ <item>hosa road</item>
+ <item>gandhi bazar</item>
+ <item>horamavu</item>
+ <item>doddamavalli</item>
+ <item>prashanth nagar</item>
+ <item>coles park</item>
+ <item>mysore road</item>
+ <item>bidadi</item>
+ <item>mahalakshmi lyt</item>
+ <item>shankar mutt</item>
+ <item>kurubarahali</item>
+ <item>shivajinagar</item>
+ <item>new thippasandra</item>
+ <item>ngef</item>
+ <item>doopana halli</item>
+ <item>avala halli (old madras rd)</item>
+ <item>avala halli(koanan kunte)</item>
+ <item>laggere</item>
+ <item>kanakpura road</item>
+ <item>brunton road</item>
+ <item>pai layout</item>
+<item>j p nagar 6th phase</item>
+<item> nandi durga rd</item>
+ <item>makali</item>
+ <item>srinivas nagar</item>
+ <item>kudlagate</item>
+ <item>st. marks road</item>
+ <item>kodihalli</item>
+ <item>muneshwar nagar</item>
+<item> vittal mallya road</item>
+ <item>old madras road</item>
+ <item>rmv</item>
+ <item>diary circle</item>
+ <item>pattegara palya</item>
+<item> kasavana halli</item>
+ <item>chikkalasandra</item>
+ <item>hemagiri lyt</item>
+ <item>Akshay Nagar</item>
+<item> marathahalli colony</item>
+ <item>babusab palya</item>
+ <item>chikkabiadarekal</item>
+<item> BIAL</item>
+ <item>bmtc bus stop</item>
+ <item>j p nagar 6th phase BS</item>
+ <item>ombr layout</item>
+<item> shivananda circle</item>
+ <item>BIAL P1</item>
+<item> BIAL P2</item>
+<item> BIAL P4</item>
+<item> doddanakundi</item>
+ <item>Banaswadi railway station</item>
+<item> East railway station</item>
+ <item>Yelahanka railway station</item>
+ <item>Yashwanthpur railway station</item>
+ <item>Challagatta</item>
+ <item>Devanahalli</item>
+<item> Maruti nagar</item>
+<item>richmond road</item>
+ <item>bel road</item>
+ <item>jakkasandra</item>
+<item> Thanisandra</item>
+<item> hal</item>
+ <item>nayand halli</item>
+<item> millers road</item>
+ <item>bellary road</item>
+ <item>Bangalore Golf club(Ashok entry)</item>
+ <item>Bangalore Golf Club(Chalukya Entry)</item>
+ <item>Century Club(Cubbon Park Entry)</item>
+ <item>Sadashiv Nagar Club(Near park)</item>
+ <item>BIAL trumpet flyover</item>
+ <item>palace road</item>
+ <item>kasturba road</item>
+ <item>blr club residency road</item>
+<item> palm meadows white field</item>
+<item> Leela Palace old airport road</item>
+<item> Atria Hotel palace road</item>
+ <item>taj westend race course rd</item>
+<item> yemlur</item>
+ <item>Iris Hotel (Brigade road)</item>
+ <item>Hoysala nagar</item>
+ <item>magrath road</item>
+<item> Mandya</item>
+ <item>Minerva Circle</item>
+ <item>Trinity Circle</item>
+ <item>Muthyalnagar</item>
+ <item>Nelamangala</item>
+ <item>Church Street</item>
+<item> Adiga residency gandhi nagar</item>
+<item> LA Marvalla Hotel South end road</item>
+ <item>Venkateshpuram-Tannery Rd</item>
+ <item>Venkateshpura-Koramangala</item>
+<item> Mysore</item>
+<item> Dickenson Road</item>
+<item>Mangalore</item>
+ <item>Kodichickenahalli(new Begur rd)</item>
+ <item>Golden Landmark Hotel anand rao circle</item>
+ <item>Mallathalli</item>
+<item> Kamalanagar</item>
+ <item>Command Hospital</item>
+ <item>Lalith Ashok Hotel</item>
+ <item>Chandapura</item>
+ <item>Hennur Bande</item>
+ <item>Tindlu</item>
+   </string-array>
+ 
+ <!-- 
+ <item> Zerror Ganesh peth </item>
+<item> AFMC</item>
+ <item>Aga khan palace</item>
+ <item>Agakhan palace</item>
+ <item>Agam mandir</item>
+ <item>Agriculture colloge</item>
+ <item>Airport</item>
+<item> Akurdi</item>
+<item> Akurdi </item>
+<item> Akurdi </item> 
+ <item>Akurdi R.S.</item>
+<item> Alandi Road</item>
+ <item>All saints church</item>
+ <item>Ambedkar Colony</item>
+ <item>Ambegaon khurd</item>
+ <item>Ambunition Factory</item>
+ <item>Anandnagar</item>
+ <item>Anand park aundh</item>
+ <item>Apte Road</item>
+ <item>Aranyeshwar mandir</item>
+ <item>Armament</item>
+ <item>Ashok nagar</item>
+ <item>Aundh</item>
+ <item>Aundh camp</item>
+ <item>Aundh Camp</item>
+ <item>Autadwadi</item>
+ <item>BalajiNagar</item>
+ <item>Balewadi</item>
+ <item>Balgandharva rang mandir</item>
+ <item>Band garden road</item>
+ <item>Bandra</item>
+ <item>Baner</item>
+ <item>Baner </item>
+<item>Baner road</item>
+<item> Bavadhan budruk</item>
+ <item> Bavadhan khurd</item>
+ <item> Bhairoba nala</item>
+ <item> Bharati vidyapith</item>
+ <item>Bhavanipeth</item>
+ <item>Bhavani Peth</item>
+ <item>Bhawani peth</item>
+ <item>Bhosari Gaon</item>
+ <item>Bhosari (Indus. estate)</item>
+ <item>Bhosari Industrial area</item>
+ <item>Bhugaon</item>
+ <item>Bibvewadi</item>
+ <item>BMCC</item>
+ <item>Boad club road</item>
+ <item>Bombay airport</item>
+ <item>Bopodi</item>
+ <item>Borivali</item>
+ <item>Botanical Garden, aundh</item>
+ <item>B.T.Kawade rd</item>
+ <item>Buddhawadi</item>
+ <item>Budhwar peth</item>
+ <item>Budhwar Peth</item>
+ <item>Bund garden</item>
+ <item>Bund garden </item>
+ <item>Bund garden road</item>
+ <item>Cafe chowk</item>
+ <item>Central building</item>
+ <item>Central jail</item>
+ <item>Central school</item>
+ <item>Chakan</item>
+ <item>ChandanNagar</item>
+ <item>Charholi BK.</item>
+<item> Chikhalwadi, bopodi</item>
+ <item>Chinchawad East</item>
+<item> Chinchawad Gaon</item>
+ <item>Chinchwad</item>
+<item>Chinchwad RS</item>
+ <item>Chinchwad R.S.</item>
+ <item>City pride</item>
+ <item>C.M.E</item>
+ <item>C.M.E.</item>
+ <item>Collector office</item>
+ <item>Council Hall</item>
+ <item>Dapodi</item>
+ <item>Dattawadi</item>
+ <item>Deccan bus stop</item>
+ <item>Deccan Gymkhana</item>
+ <item>Dehu Road</item>
+ <item>Dhankawadi</item>
+ <item>Dhanori </item>
+ <item>Dhayari</item>
+ <item>Dhole patil Road</item> 
+ <item>Dhole Patil Road</item>
+ <item>Dhorwadi</item>
+ <item>Dighi</item>
+ <item>Dighi camp</item>
+ <item>Dighi Camp</item>
+ <item>Domestic Airport</item>
+ <item>Dudulgaon</item>
+ <item>Dunkirk Line</item>
+ <item>DY Patil Colloge, akurdi</item>
+ <item>DY Patil colloge of enginnering</item>
+ <item>Erandwane</item>
+ <item>Erndwana gavthan</item>
+ <item>Ex. Service Man colony</item>
+<item> Fame jai ganesh, Akurdi</item>
+ <item>Faraskhana</item>
+<item> Fatimanagar</item>
+ <item>Fergusson colloge</item>
+ <item>Fruit Museum, pune univercity</item>
+ <item>Fursungi</item>
+ <item>Gadital</item>
+<item>Ganeshkhind</item>
+ <item>Ganesh Peth</item>
+ <item>Ganj peth</item>
+ <item>Ganj Peth </item>
+ <item>Garware colloge</item>
+ <item>Ghole road </item>
+ <item>Ghorpade RS</item>
+ <item>Ghorpadi</item>
+ <item>Ghorpuri</item>
+ <item>Gokhale institute</item>
+ <item>Gokhale nagar</item>
+ <item>Gokhale Road</item>
+ <item>Golegaon</item>
+ <item>Gondhalenagar</item>
+ <item>Gultekadi</item>
+ <item>Gultekdi</item>
+ <item>Gultekdi industrial estate</item>
+ <item>Hadapsar</item>
+ <item>Handewadi</item>
+ <item>Handewadi </item>
+ <item>Handewadi road</item>
+<item> Harish Bridge</item>
+<item> Hijewadi</item>
+ <item>Hindustan antibiotics factory</item>
+ <item>Hingane budruk</item>
+ <item>Hingane Budruk</item>
+ <item>Hingane khurd</item>
+ <item>Hingne budruk</item>
+<item> Hinjawadi</item>
+ <item>Holakar Bridge</item>
+ <item>I.A.F. Station</item>
+ <item>I.A.T.Pune</item>
+ <item>I.B.M, Fursungi</item>
+<item> ICC Towers</item>
+ <item>International Airport</item>
+ <item>I.T.Park, Hinjawadi</item>
+<item>Jahangir hosp</item>
+ <item>Jahangir Hospital</item>
+ <item>Jangali Maharaj rd</item>
+ <item>Janwadi</item>
+ <item>Jungli maharaj road</item>
+ <item>Kalas</item>
+ <item>Kalepadal</item>
+ <item>Kale Padal, Hadapsar</item>
+<item> Kalewadi</item>
+ <item>Kalewadi </item>
+ <item>Kalewadi Kade</item>
+ <item>Kalewadi Phata</item>
+ <item>Kalyan</item>
+ <item>KalyaniNagar</item>
+<item> Karerwadi</item>
+ <item>Karewadi</item>
+ <item>Karve nagar</item>
+ <item>Karve Road</item>
+ <item>Kasaba Peth</item>
+<item> Kasarwadi</item>
+ <item>Kasarwadi </item>
+ <item>Kasbapeth</item>
+<item> Kasba peth</item>
+<item> Kasba Peth</item>
+ <item>Kaspatewadi</item>
+ <item>Katraj</item>
+<item> Katraj milk Dairy</item>
+<item> Kem hospital</item>
+<item> Khadaki</item>
+<item> Khadaki east</item>
+ <item>Khadakwasala</item>
+ <item>Khadakwasla</item>
+ <item>Khadki bazar</item>
+ <item>Kharadi</item>
+<item> Khulewadi</item>
+<item> Kirkatwadi</item>
+<item>Kivale</item>
+ <item>Kondhwa</item>
+ <item>Kondhwa road</item>
+ <item>Kopare</item>
+ <item>Koregaon Park</item>
+<item> Kothrud</item>
+<item> Kudge</item>
+ <item>Kunte chowk</item>
+ <item>Lakshminagar</item>
+<item> Lavale</item>
+ <item>Law colloge</item>
+<item> Law colloge road </item>
+<item> Laxmi nagar</item>
+<item> Laxmi narayan</item>
+<item> Le meridian</item>
+<item> Lohagaon</item>
+<item> Lohagaon </item>
+ <item>Lokmanyanagar</item>
+ <item>Lonavala</item>
+ <item>Loni Kalbhor</item>
+ <item>Loop nagar</item>
+<item> Lulla nagar</item>
+ <item>Lunawat complex</item>
+<item> Magarpatta </item>
+<item> Mahadev nagar</item>
+<item> Mahalunge</item>
+<item> Maharshinagar</item>
+<item> Maharshi nagar</item>
+<item> MaharshiNagar</item>
+<item> Mahatma phule market</item>
+<item> Mandalay lines</item>
+ <item>Mangadewadi</item>
+<item> Mangalwar peth</item>
+<item> Manisha Apts.</item>
+<item> Manjari</item>
+<item> Manjari fata</item>
+<item>Market yard</item>
+<item> Market Yard  </item>
+<item> Markhol</item>
+<item> Marunje</item>
+<item> Mega centre</item>
+ <item>Mega mart, Aundh</item>
+ <item>M.G. Road</item>
+ <item>Model colony</item>
+<item> Model Colony </item>
+<item> Modern colloge</item>
+<item> Mohamadvadi</item>
+<item> Moshi</item>
+<item> mukundnagar </item>
+<item> Mukund nagar</item>
+<item> MukundNagar</item>
+<item> Mula road</item>
+<item> Mumbai Central</item>
+ <item>Mundhwa</item>
+ <item>Nagesh peth</item>
+ <item>nana peth </item>
+<item> Nana peth</item>
+ <item>Narayan Peth</item>
+ <item>Narhe</item>
+<item> Nashik Road</item>
+<item> Navasahydri</item>
+<item> NCC ground symboss</item>
+<item> N.C.L</item>
+<item> NCL Colony</item>
+ <item>N.D.A.</item>
+ <item>Neharu stedium</item>
+ <item>Netajinagar</item>
+ <item>N.I.B.M.(Kondhwa)</item>
+ <item>Nigdi</item>
+<item> Nirgudi</item>
+<item> Nucleus mall</item>
+<item> Panvel Rly. Station</item>
+<item>Parvati</item>
+ <item>Pashan</item>
+ <item>Paud road, kothrud</item>
+ <item>PCMC Office</item>
+<item> Phugewadi</item>
+<item> Pimpale Saudagar</item>
+<item> Pimpari</item>
+ <item>Pimpari Camp</item>
+<item> Pimpari Chichawad</item>
+ <item>Pimpari RS</item>
+ <item>Pimple gurav</item>
+ <item>Pimple Nilakah</item>
+ <item>PImple saudagar</item>
+<item> Pimpri Colony</item>
+ <item>Pimpri Penicilin Factory</item>
+ <item>PMC Garden</item>
+ <item>PMT Stand</item>
+ <item>Poolgate Camp</item>
+ <item>Poona club</item>
+ <item>Poona hospital</item>
+ <item>Prabhat road</item>
+ <item>Pradhikaran, nigdi</item>
+<item> Premnagar</item>
+ <item>Pride silicon</item>
+ <item>Pulse, aundh</item>
+ <item>Punavale</item>
+ <item>Pune Camp</item>
+ <item>Pune cantonment</item>
+<item> Pune Chest kalasagar</item>
+<item> Pune City H.O.</item>
+ <item>Pune H.O.</item>
+ <item>Pune Station</item>
+ <item>Pune univercity</item> 
+<item> Pune university </item>
+ <item>Race course</item>
+<item> Race Course </item> 
+<item>Rahatani</item>
+ <item>Raise course</item>
+ <item>Raj Bhavan</item>
+ <item>Ramtekdi</item>
+ <item>Ramwadi</item>
+ <item>Ramwadi </item>
+<item> Range hill</item>
+ <item>Range Hill </item>
+ <item>Range hill estate</item>
+ <item>Rasta Pet</item>
+ <item>Rasta peth</item>
+ <item>Rasta Peth </item>
+ <item>Ravet </item>
+ <item>Ravivar peth</item>
+ <item>Raviwar Peth,</item>
+ <item>R.B.M. Road</item>
+ <item>Revenue colony</item>
+ <item>Ruby Hall</item>
+ <item>Sadar bazar</item>
+ <item>Sadashiv peth</item>
+ <item>Sadashiv Peth </item>
+<item> Sadesataranali</item>
+<item> Sadhu vasawani chowk</item>
+ <item>Sahakarnagar</item>
+<item> Sahara Stadium</item>
+ <item>Saints patricks church</item>
+<item> Sakal nagar</item>
+ <item>Salibury park</item>
+ <item>Salunke Vihar</item>
+ <item>Sambhaji park</item>
+ <item>Sambhaji park</item> 
+ <item>Sambhaji Park</item>
+ <item>Sangavi nagar</item>
+ <item>Santoshnagar</item>
+<item> Saras baug</item>
+<item> SarasBaug</item>
+<item>Sasaneangar,Hadapsar</item>
+<item> Sasoon road</item>
+ <item>Saswad Road</item>
+ <item>Satavnagar</item>
+<item> Satavwadi,Hadapsar</item>
+ <item>Sayyadnagar</item>
+<item> Senapati bapat road</item>
+ <item>Shahu colloge road</item>
+<item> Shanivar vada</item>
+ <item>Shantinagar</item>
+<item> Shastrinagar</item>
+ <item>Shastri nagar</item>
+ <item>Shivaji Hsg Society</item>
+ <item>Shivaji market</item>
+<item> Shivajinagar H.O.</item>
+ <item>Shivajinagar rly station</item>
+ <item>ShivajiNagar S.T.Stand</item>
+ <item>Shivane uttamnagar</item>
+ <item>Shivarkar Road</item>
+ <item>Shukrawar peth</item>
+ <item>Sihangad road</item>
+<item> Sindh colony</item>
+ <item>Sindh Colony  </item> 
+ <item>Sindhi colony</item>
+ <item>Snake park</item>
+ <item>Soharabhall</item>
+ <item>Solu</item>
+ <item>Someshwarwadi</item>
+<item> Somwar Peth</item>
+<item> South main road</item>
+<item> S.P. College</item>
+ <item>SP colloge</item>
+ <item>S.P. Colloge</item>
+<item> SP Colloge</item>
+<item> S.R.P.F.</item>
+<item> S.S.C.Board</item>
+ <item>Sus </item>
+ <item>Sus Road</item>
+ <item>Sutarwadi</item>
+ <item>Swargate</item>
+<item> Talavade</item>
+ <item>Talegaon(dabhade)</item>
+ <item>Tathavade</item>
+ <item>Thane</item>
+ <item>Thergaon</item>
+ <item>Thergaon</item> 
+<item> Tilak maharastra</item>
+<item> Tilak road</item>
+<item> Tulapur</item>
+ <item>Undri</item>
+<item> Unlisted</item>
+<item> Unlisted </item>
+<item> Vadechiwadi</item>
+<item> Vadgaon</item>
+<item> Vadgaon sheri</item>
+<item> Vagholi</item>
+ <item>Vidyanagar</item>
+<item> Vidypeeth rd, aundh</item>
+ <item>Vimannagar</item>
+ <item>Vimannagar colony</item>
+ <item>Vishal nagar</item>
+<item> Vishrambaug Wada</item>
+<item> Vishrantvadi</item>
+<item> Vitthalwadi</item>
+ <item>Wadgaon budruk</item>
+ <item>Wadgaon Budruk </item>
+ <item>Wadgaon Dhayari</item>
+ <item>Wadgaon Sheri</item>
+<item> Wadia College</item>
+<item> Wadia colloge</item>
+ <item>Wagholi</item>
+<item> Wakad</item>
+ <item>Wakdewadi</item>
+<item> Wanwadi</item>
+<item> Warje malwadi</item>
+ <item>Watarwadi</item>
+ <item>Wilson garden</item>
+ <item>Wipro Phase-1</item>
+ <item>Wipro Phase-2</item>
+ <item>Wipro Phase -3</item>
+ <item>Yashawantnagar</item>
+ <item>Yerawada</item>
+ <item>Yerawada house </item>
+ <item>Yevalewadi</item>
+ <item>Zerror Alandi road</item>   -->
+  
+    
+     
+     
+     <string-array name="listplacesPune">
+        <item> Zerror Ganesh peth </item>
+<item> AFMC</item>
+ <item>Aga khan palace</item>
+ <item>Agakhan palace</item>
+ <item>Agam mandir</item>
+ <item>Agriculture colloge</item>
+ <item>Airport</item>
+<item> Akurdi</item>
+<item> Akurdi </item>
+<item> Akurdi </item> 
+ <item>Akurdi R.S.</item>
+<item> Alandi Road</item>
+ <item>All saints church</item>
+ <item>Ambedkar Colony</item>
+ <item>Ambegaon khurd</item>
+ <item>Ambunition Factory</item>
+ <item>Anandnagar</item>
+ <item>Anand park aundh</item>
+ <item>Apte Road</item>
+ <item>Aranyeshwar mandir</item>
+ <item>Armament</item>
+ <item>Ashok nagar</item>
+ <item>Aundh</item>
+ <item>Aundh camp</item>
+ <item>Aundh Camp</item>
+ <item>Autadwadi</item>
+ <item>BalajiNagar</item>
+ <item>Balewadi</item>
+ <item>Balgandharva rang mandir</item>
+ <item>Band garden road</item>
+ <item>Bandra</item>
+ <item>Baner</item>
+ <item>Baner </item>
+<item>Baner road</item>
+<item> Bavadhan budruk</item>
+ <item> Bavadhan khurd</item>
+ <item> Bhairoba nala</item>
+ <item> Bharati vidyapith</item>
+ <item>Bhavanipeth</item>
+ <item>Bhavani Peth</item>
+ <item>Bhawani peth</item>
+ <item>Bhosari Gaon</item>
+ <item>Bhosari (Indus. estate)</item>
+ <item>Bhosari Industrial area</item>
+ <item>Bhugaon</item>
+ <item>Bibvewadi</item>
+ <item>BMCC</item>
+ <item>Boad club road</item>
+ <item>Bombay airport</item>
+ <item>Bopodi</item>
+ <item>Borivali</item>
+ <item>Botanical Garden, aundh</item>
+ <item>B.T.Kawade rd</item>
+ <item>Buddhawadi</item>
+ <item>Budhwar peth</item>
+ <item>Budhwar Peth</item>
+ <item>Bund garden</item>
+ <item>Bund garden </item>
+ <item>Bund garden road</item>
+ <item>Cafe chowk</item>
+ <item>Central building</item>
+ <item>Central jail</item>
+ <item>Central school</item>
+ <item>Chakan</item>
+ <item>ChandanNagar</item>
+ <item>Charholi BK.</item>
+<item> Chikhalwadi, bopodi</item>
+ <item>Chinchawad East</item>
+<item> Chinchawad Gaon</item>
+ <item>Chinchwad</item>
+<item>Chinchwad RS</item>
+ <item>Chinchwad R.S.</item>
+ <item>City pride</item>
+ <item>C.M.E</item>
+ <item>C.M.E.</item>
+ <item>Collector office</item>
+ <item>Council Hall</item>
+ <item>Dapodi</item>
+ <item>Dattawadi</item>
+ <item>Deccan bus stop</item>
+ <item>Deccan Gymkhana</item>
+ <item>Dehu Road</item>
+ <item>Dhankawadi</item>
+ <item>Dhanori </item>
+ <item>Dhayari</item>
+ <item>Dhole patil Road</item> 
+ <item>Dhole Patil Road</item>
+ <item>Dhorwadi</item>
+ <item>Dighi</item>
+ <item>Dighi camp</item>
+ <item>Dighi Camp</item>
+ <item>Domestic Airport</item>
+ <item>Dudulgaon</item>
+ <item>Dunkirk Line</item>
+ <item>DY Patil Colloge, akurdi</item>
+ <item>DY Patil colloge of enginnering</item>
+ <item>Erandwane</item>
+ <item>Erndwana gavthan</item>
+ <item>Ex. Service Man colony</item>
+<item> Fame jai ganesh, Akurdi</item>
+ <item>Faraskhana</item>
+<item> Fatimanagar</item>
+ <item>Fergusson colloge</item>
+ <item>Fruit Museum, pune univercity</item>
+ <item>Fursungi</item>
+ <item>Gadital</item>
+<item>Ganeshkhind</item>
+ <item>Ganesh Peth</item>
+ <item>Ganj peth</item>
+ <item>Ganj Peth </item>
+ <item>Garware colloge</item>
+ <item>Ghole road </item>
+ <item>Ghorpade RS</item>
+ <item>Ghorpadi</item>
+ <item>Ghorpuri</item>
+ <item>Gokhale institute</item>
+ <item>Gokhale nagar</item>
+ <item>Gokhale Road</item>
+ <item>Golegaon</item>
+ <item>Gondhalenagar</item>
+ <item>Gultekadi</item>
+ <item>Gultekdi</item>
+ <item>Gultekdi industrial estate</item>
+ <item>Hadapsar</item>
+ <item>Handewadi</item>
+ <item>Handewadi </item>
+ <item>Handewadi road</item>
+<item> Harish Bridge</item>
+<item> Hijewadi</item>
+ <item>Hindustan antibiotics factory</item>
+ <item>Hingane budruk</item>
+ <item>Hingane Budruk</item>
+ <item>Hingane khurd</item>
+ <item>Hingne budruk</item>
+<item> Hinjawadi</item>
+ <item>Holakar Bridge</item>
+ <item>I.A.F. Station</item>
+ <item>I.A.T.Pune</item>
+ <item>I.B.M, Fursungi</item>
+<item> ICC Towers</item>
+ <item>International Airport</item>
+ <item>I.T.Park, Hinjawadi</item>
+<item>Jahangir hosp</item>
+ <item>Jahangir Hospital</item>
+ <item>Jangali Maharaj rd</item>
+ <item>Janwadi</item>
+ <item>Jungli maharaj road</item>
+ <item>Kalas</item>
+ <item>Kalepadal</item>
+ <item>Kale Padal, Hadapsar</item>
+<item> Kalewadi</item>
+ <item>Kalewadi </item>
+ <item>Kalewadi Kade</item>
+ <item>Kalewadi Phata</item>
+ <item>Kalyan</item>
+ <item>KalyaniNagar</item>
+<item> Karerwadi</item>
+ <item>Karewadi</item>
+ <item>Karve nagar</item>
+ <item>Karve Road</item>
+ <item>Kasaba Peth</item>
+<item> Kasarwadi</item>
+ <item>Kasarwadi </item>
+ <item>Kasbapeth</item>
+<item> Kasba peth</item>
+<item> Kasba Peth</item>
+ <item>Kaspatewadi</item>
+ <item>Katraj</item>
+<item> Katraj milk Dairy</item>
+<item> Kem hospital</item>
+<item> Khadaki</item>
+<item> Khadaki east</item>
+ <item>Khadakwasala</item>
+ <item>Khadakwasla</item>
+ <item>Khadki bazar</item>
+ <item>Kharadi</item>
+<item> Khulewadi</item>
+<item> Kirkatwadi</item>
+<item>Kivale</item>
+ <item>Kondhwa</item>
+ <item>Kondhwa road</item>
+ <item>Kopare</item>
+ <item>Koregaon Park</item>
+<item> Kothrud</item>
+<item> Kudge</item>
+ <item>Kunte chowk</item>
+ <item>Lakshminagar</item>
+<item> Lavale</item>
+ <item>Law colloge</item>
+<item> Law colloge road </item>
+<item> Laxmi nagar</item>
+<item> Laxmi narayan</item>
+<item> Le meridian</item>
+<item> Lohagaon</item>
+<item> Lohagaon </item>
+ <item>Lokmanyanagar</item>
+ <item>Lonavala</item>
+ <item>Loni Kalbhor</item>
+ <item>Loop nagar</item>
+<item> Lulla nagar</item>
+ <item>Lunawat complex</item>
+<item> Magarpatta </item>
+<item> Mahadev nagar</item>
+<item> Mahalunge</item>
+<item> Maharshinagar</item>
+<item> Maharshi nagar</item>
+<item> MaharshiNagar</item>
+<item> Mahatma phule market</item>
+<item> Mandalay lines</item>
+ <item>Mangadewadi</item>
+<item> Mangalwar peth</item>
+<item> Manisha Apts.</item>
+<item> Manjari</item>
+<item> Manjari fata</item>
+<item>Market yard</item>
+<item> Market Yard  </item>
+<item> Markhol</item>
+<item> Marunje</item>
+<item> Mega centre</item>
+ <item>Mega mart, Aundh</item>
+ <item>M.G. Road</item>
+ <item>Model colony</item>
+<item> Model Colony </item>
+<item> Modern colloge</item>
+<item> Mohamadvadi</item>
+<item> Moshi</item>
+<item> mukundnagar </item>
+<item> Mukund nagar</item>
+<item> MukundNagar</item>
+<item> Mula road</item>
+<item> Mumbai Central</item>
+ <item>Mundhwa</item>
+ <item>Nagesh peth</item>
+ <item>nana peth </item>
+<item> Nana peth</item>
+ <item>Narayan Peth</item>
+ <item>Narhe</item>
+<item> Nashik Road</item>
+<item> Navasahydri</item>
+<item> NCC ground symboss</item>
+<item> N.C.L</item>
+<item> NCL Colony</item>
+ <item>N.D.A.</item>
+ <item>Neharu stedium</item>
+ <item>Netajinagar</item>
+ <item>N.I.B.M.(Kondhwa)</item>
+ <item>Nigdi</item>
+<item> Nirgudi</item>
+<item> Nucleus mall</item>
+<item> Panvel Rly. Station</item>
+<item>Parvati</item>
+ <item>Pashan</item>
+ <item>Paud road, kothrud</item>
+ <item>PCMC Office</item>
+<item> Phugewadi</item>
+<item> Pimpale Saudagar</item>
+<item> Pimpari</item>
+ <item>Pimpari Camp</item>
+<item> Pimpari Chichawad</item>
+ <item>Pimpari RS</item>
+ <item>Pimple gurav</item>
+ <item>Pimple Nilakah</item>
+ <item>PImple saudagar</item>
+<item> Pimpri Colony</item>
+ <item>Pimpri Penicilin Factory</item>
+ <item>PMC Garden</item>
+ <item>PMT Stand</item>
+ <item>Poolgate Camp</item>
+ <item>Poona club</item>
+ <item>Poona hospital</item>
+ <item>Prabhat road</item>
+ <item>Pradhikaran, nigdi</item>
+<item> Premnagar</item>
+ <item>Pride silicon</item>
+ <item>Pulse, aundh</item>
+ <item>Punavale</item>
+ <item>Pune Camp</item>
+ <item>Pune cantonment</item>
+<item> Pune Chest kalasagar</item>
+<item> Pune City H.O.</item>
+ <item>Pune H.O.</item>
+ <item>Pune Station</item>
+ <item>Pune univercity</item> 
+<item> Pune university </item>
+ <item>Race course</item>
+<item> Race Course </item> 
+<item>Rahatani</item>
+ <item>Raise course</item>
+ <item>Raj Bhavan</item>
+ <item>Ramtekdi</item>
+ <item>Ramwadi</item>
+ <item>Ramwadi </item>
+<item> Range hill</item>
+ <item>Range Hill </item>
+ <item>Range hill estate</item>
+ <item>Rasta Pet</item>
+ <item>Rasta peth</item>
+ <item>Rasta Peth </item>
+ <item>Ravet </item>
+ <item>Ravivar peth</item>
+ <item>Raviwar Peth,</item>
+ <item>R.B.M. Road</item>
+ <item>Revenue colony</item>
+ <item>Ruby Hall</item>
+ <item>Sadar bazar</item>
+ <item>Sadashiv peth</item>
+ <item>Sadashiv Peth </item>
+<item> Sadesataranali</item>
+<item> Sadhu vasawani chowk</item>
+ <item>Sahakarnagar</item>
+<item> Sahara Stadium</item>
+ <item>Saints patricks church</item>
+<item> Sakal nagar</item>
+ <item>Salibury park</item>
+ <item>Salunke Vihar</item>
+ <item>Sambhaji park</item>
+ <item>Sambhaji park</item> 
+ <item>Sambhaji Park</item>
+ <item>Sangavi nagar</item>
+ <item>Santoshnagar</item>
+<item> Saras baug</item>
+<item> SarasBaug</item>
+<item>Sasaneangar,Hadapsar</item>
+<item> Sasoon road</item>
+ <item>Saswad Road</item>
+ <item>Satavnagar</item>
+<item> Satavwadi,Hadapsar</item>
+ <item>Sayyadnagar</item>
+<item> Senapati bapat road</item>
+ <item>Shahu colloge road</item>
+<item> Shanivar vada</item>
+ <item>Shantinagar</item>
+<item> Shastrinagar</item>
+ <item>Shastri nagar</item>
+ <item>Shivaji Hsg Society</item>
+ <item>Shivaji market</item>
+<item> Shivajinagar H.O.</item>
+ <item>Shivajinagar rly station</item>
+ <item>ShivajiNagar S.T.Stand</item>
+ <item>Shivane uttamnagar</item>
+ <item>Shivarkar Road</item>
+ <item>Shukrawar peth</item>
+ <item>Sihangad road</item>
+<item> Sindh colony</item>
+ <item>Sindh Colony  </item> 
+ <item>Sindhi colony</item>
+ <item>Snake park</item>
+ <item>Soharabhall</item>
+ <item>Solu</item>
+ <item>Someshwarwadi</item>
+<item> Somwar Peth</item>
+<item> South main road</item>
+<item> S.P. College</item>
+ <item>SP colloge</item>
+ <item>S.P. Colloge</item>
+<item> SP Colloge</item>
+<item> S.R.P.F.</item>
+<item> S.S.C.Board</item>
+ <item>Sus </item>
+ <item>Sus Road</item>
+ <item>Sutarwadi</item>
+ <item>Swargate</item>
+<item> Talavade</item>
+ <item>Talegaon(dabhade)</item>
+ <item>Tathavade</item>
+ <item>Thane</item>
+ <item>Thergaon</item>
+ <item>Thergaon</item> 
+<item> Tilak maharastra</item>
+<item> Tilak road</item>
+<item> Tulapur</item>
+ <item>Undri</item>
+<item> Unlisted</item>
+<item> Unlisted </item>
+<item> Vadechiwadi</item>
+<item> Vadgaon</item>
+<item> Vadgaon sheri</item>
+<item> Vagholi</item>
+ <item>Vidyanagar</item>
+<item> Vidypeeth rd, aundh</item>
+ <item>Vimannagar</item>
+ <item>Vimannagar colony</item>
+ <item>Vishal nagar</item>
+<item> Vishrambaug Wada</item>
+<item> Vishrantvadi</item>
+<item> Vitthalwadi</item>
+ <item>Wadgaon budruk</item>
+ <item>Wadgaon Budruk </item>
+ <item>Wadgaon Dhayari</item>
+ <item>Wadgaon Sheri</item>
+<item> Wadia College</item>
+<item> Wadia colloge</item>
+ <item>Wagholi</item>
+<item> Wakad</item>
+ <item>Wakdewadi</item>
+<item> Wanwadi</item>
+<item> Warje malwadi</item>
+ <item>Watarwadi</item>
+ <item>Wilson garden</item>
+ <item>Wipro Phase-1</item>
+ <item>Wipro Phase-2</item>
+ <item>Wipro Phase -3</item>
+ <item>Yashawantnagar</item>
+ <item>Yerawada</item>
+ <item>Yerawada house </item>
+ <item>Yevalewadi</item>
+ <item>Zerror Alandi road</item>  
+  </string-array>  
+  
+     <string-array name="listItems">
+      <item name ="Bangalore"> Bangalore </item>
+      <item name = "Pune">Pune</item>
+    </string-array>
+</resources>

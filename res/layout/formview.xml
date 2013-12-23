@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:background="@drawable/abstract001">
+          
+   <TableLayout
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content" >
+
+        <TableRow>
+            
+            <TextView
+           android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+           android:layout_weight="1"
+           android:text="rowid" />
+ 
+             <TextView
+           android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+           android:layout_weight="1"
+           android:text="Phone" />
+             
+              <TextView
+        	android:layout_width="fill_parent"
+        	android:layout_height="fill_parent"
+       		android:layout_weight="1"
+        	android:text="Fname" />
+              
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="Lname" />
+              
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="Addr" />
+              
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="Pickup" />
+              
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="Drop" />
+              
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="PassCount" />
+              
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="Client" />
+                   
+        </TableRow>
+  </TableLayout>
+
+   <TextView
+       android:id="@+id/tvSQLinfo1"
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:text="get info from database" />
+
+</LinearLayout>
